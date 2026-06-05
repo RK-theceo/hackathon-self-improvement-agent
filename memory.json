@@ -1,0 +1,150 @@
+[
+  {
+    "task_keywords": [
+      "substring",
+      "python",
+      "longest"
+    ],
+    "task_type": "python",
+    "error_type": "dependency_error",
+    "fix_summary": "All iterations failed; last error: dependency_error",
+    "iterations_needed": 3,
+    "final_confidence": 5,
+    "overconfident_flagged": false,
+    "timestamp": "2026-06-05T08:37:27.751126Z"
+  },
+  {
+    "task_keywords": [
+      "substring",
+      "python",
+      "longest"
+    ],
+    "task_type": "python",
+    "error_type": "dependency_error",
+    "fix_summary": "All iterations failed; last error: dependency_error",
+    "iterations_needed": 3,
+    "final_confidence": 5,
+    "overconfident_flagged": false,
+    "timestamp": "2026-06-05T08:43:01.146930Z"
+  },
+  {
+    "task_keywords": [
+      "substring",
+      "python",
+      "longest"
+    ],
+    "task_type": "python",
+    "error_type": "dependency_error",
+    "fix_summary": "All iterations failed; last error: dependency_error",
+    "iterations_needed": 3,
+    "final_confidence": 5,
+    "overconfident_flagged": false,
+    "timestamp": "2026-06-05T08:44:54.787281Z"
+  },
+  {
+    "task_keywords": [
+      "substring",
+      "python",
+      "longest"
+    ],
+    "task_type": "python",
+    "error_type": "dependency_error",
+    "fix_summary": "All iterations failed; last error: dependency_error",
+    "iterations_needed": 3,
+    "final_confidence": 5,
+    "overconfident_flagged": false,
+    "timestamp": "2026-06-05T08:50:58.251169Z"
+  },
+  {
+    "task_keywords": [
+      "addition",
+      "simple"
+    ],
+    "task_type": "python",
+    "error_type": "dependency_error",
+    "fix_summary": "All iterations failed; last error: dependency_error",
+    "iterations_needed": 3,
+    "final_confidence": 5,
+    "overconfident_flagged": false,
+    "timestamp": "2026-06-05T08:51:12.084454Z"
+  },
+  {
+    "task_keywords": [
+      "python",
+      "find",
+      "longest",
+      "substring"
+    ],
+    "task_type": "python",
+    "error_type": "syntax_error",
+    "fix_summary": "All iterations failed; last error: syntax_error",
+    "iterations_needed": 3,
+    "final_confidence": 5,
+    "overconfident_flagged": false,
+    "timestamp": "2026-06-05T09:00:45.623213Z"
+  },
+  {
+    "task_keywords": [
+      "simple",
+      "webpage",
+      "html"
+    ],
+    "task_type": "python",
+    "error_type": "syntax_error",
+    "fix_summary": "All iterations failed; last error: syntax_error",
+    "iterations_needed": 3,
+    "final_confidence": 5,
+    "overconfident_flagged": false,
+    "timestamp": "2026-06-05T09:43:51.688950Z"
+  },
+  {
+    "task_keywords": [
+      "longest",
+      "python",
+      "substring",
+      "palindrome"
+    ],
+    "task_type": "python",
+    "error_type": "none",
+    "fix_summary": "Passed on first attempt",
+    "iterations_needed": 1,
+    "final_confidence": 9,
+    "overconfident_flagged": false,
+    "timestamp": "2026-06-05T09:50:36.373967Z"
+  },
+  {
+    "task_keywords": [
+      "python",
+      "snippet",
+      "beginning",
+      "substring",
+      "give",
+      "palindrome",
+      "wrong",
+      "longest",
+      "test"
+    ],
+    "task_type": "python",
+    "error_type": "none",
+    "fix_summary": "Passed on first attempt",
+    "iterations_needed": 1,
+    "final_confidence": 1,
+    "overconfident_flagged": false,
+    "timestamp": "2026-06-05T09:51:27.978196Z"
+  },
+  {
+    "task_keywords": [
+      "web",
+      "page",
+      "simple",
+      "html"
+    ],
+    "task_type": "html",
+    "error_type": "none",
+    "fix_summary": "Passed on first attempt",
+    "iterations_needed": 1,
+    "final_confidence": 10,
+    "overconfident_flagged": false,
+    "timestamp": "2026-06-05T09:51:48.193949Z"
+  }
+]
